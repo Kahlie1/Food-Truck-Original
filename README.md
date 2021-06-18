@@ -35,7 +35,7 @@ Users
 # Screenshots
 
 Sign Up Screen
-<img src="/Screenshots/SignUp.jpg" height="500" width="175">
+<img src="/Screenshots/SignUp.jpg" height="400" width="200">
 
 Movies Info Screen
 - Contains the movie genres, rating, release-date, overview, and trailer
