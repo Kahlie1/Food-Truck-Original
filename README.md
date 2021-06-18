@@ -28,12 +28,10 @@ Users
 
 [Firebase Realtime Database](https://firebase.google.com/docs/database)
 
-![](FoodTruck.gif)
+# Demo (Download Link)
 
-## Documentation
-* https://drive.google.com/file/d/1zuUUGatujsQco7pb58-uaB6QpyFiVS5k/view?usp=sharing
+[APK](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40kahlie/iosTest-09debbf4817242d3a4dd52baee7972b6-signed.apk)
 
-## What we learned
+# Screenshots
 
-* 
 
