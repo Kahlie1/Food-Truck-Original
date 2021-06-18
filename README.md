@@ -34,36 +34,34 @@ Users
 
 # Screenshots
 
-Sign Up Screen
-<img src="/Screenshots/SignUp.jpg" height="400" width="200">
+Sign In Screen
 
-Movies Info Screen
-- Contains the movie genres, rating, release-date, overview, and trailer
+<img src="/Screenshots/SignIn.jpg" height="460" width="220">
 
-<img src="/demo/screenshots/Movies-Info.png" height="300" width="175" >
+Sign Up Screen (Users)
 
-Movies Search Screen
-- Allows the user to search their favorite movies
+<img src="/Screenshots/SignUp-User.jpg" height="460" width="220">
 
-<img src="/demo/screenshots/Movies-Search.png" height="300" width="175" >
+Sign Up Screen (Vendor)
 
-Trailer
-- Allows the user to watch a trailer of the movie/video
+<img src="/Screenshots/SignUp.jpg" height="460" width="220">
 
-<img src="/demo/screenshots/Trailer.png" height="300" width="175">
+Forgot Password Screen
 
-Tv Shows Home Screen
-- Displays Tv Shows Currently Airing
+<img src="/Screenshots/Forgot-Password.jpg" height="460" width="220">
 
-<img src="/demo/screenshots/Tv-Home.png" height="300" width="175" >
+Home Screen
 
-Tv Shows Info Screen
-- Contains the tv shows, genres release-date, overview, and trailer
+<img src="/Screenshots/HomeScreen.jpg" height="460" width="220">
 
-<img src="/demo/screenshots/Tv-Info.png" height="300" width="175" >
+Account Screen
 
-Tv Shows Search Screen
-- Allows the user to search their favorite tv shows
+<img src="/Screenshots/Account.jpg" height="460" width="220">
 
-<img src="/demo/screenshots/Tv-Search.png" height="300" width="175" >
+Edit Account Screen
 
+<img src="/Screenshots/EditAccount.jpg" height="460" width="220">
+
+My Page (Vendor)
+
+<img src="/Screenshots/MyPage.jpg" height="460" width="220">
